@@ -1,9 +1,9 @@
 # AES408_FinalProject
 
-# NDVI Vegetation Change Analysis – Jefferson County, Alabama
+# NDVI/NBDI Vegetation Change Analysis – Jefferson County, Alabama
 
 ## Overview
-This project analyzes vegetation change in Jefferson County, Alabama from 1990 to 2025 using Landsat satellite imagery and NDVI.
+This project analyzes vegetation change and urban development in Jefferson County, Alabama from 1990 to 2025 using Landsat satellite imagery and NDVI.
 
 ## Objectives
 - Measure vegetation change over time
@@ -15,7 +15,7 @@ This project analyzes vegetation change in Jefferson County, Alabama from 1990 t
 - USGS Earth Explorer Landsat Data: https://earthexplorer.usgs.gov/
   
 ## Methods
-- NDVI calculation using Python
+- NDVI and NDBI calculation using Python
 - Raster alignment and resampling
 - Trend analysis across multiple years
 
