@@ -21,6 +21,7 @@
 # Data Sources
 ## Jefferson County Boundary Shapefile: https://data-jeffco-al.opendata.arcgis.com/datasets/a470dbef36124cde85cf3ac606a5475f_4/explore
 ## Landsat Collection 2 Level-2 Imagery (USGS EarthExplorer): https://earthexplorer.usgs.gov/
+## ChatGPT was also used to assist with coding support and explanation of geospatial processing steps. 
 
 # Years used in analysis:
 ## 1990, 2000, 2010, 2015, 2025
